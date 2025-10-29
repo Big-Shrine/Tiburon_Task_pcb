@@ -1712,6 +1712,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 171.45 87.63) (xy 156.21 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00eb2277-c8cf-4b17-9092-1eb66fb4c914")
+	)
+	(wire
+		(pts
+			(xy 171.45 99.06) (xy 171.45 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68df3bfc-cf70-4bfc-ab16-e6abec755d69")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
 		(at 170.18 83.82 0)
