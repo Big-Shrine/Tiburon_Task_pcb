@@ -1,0 +1,42 @@
+# KiCad Version 6 and later #
+
+# General files
+*.kicad_prl
+*.kicad_pro.user
+
+# Backup and recovery files
+*-bak.*
+*.bak
+_autosave-*
+#auto_saved_files#/
+*.lck
+
+# Fabrication outputs
+# It's often better to put these in a dedicated, ignored directory (e.g., /fabrication/)
+*.gbr
+*.gbl
+*.gbs
+*.gtl
+*.gts
+*.gto
+*.gm1
+*.drl
+*.nc
+*.rpt
+*.pos
+*.ipc
+*.bom
+*.csv
+*.xml
+*.ps
+*.pdf
+*.svg
+*.png
+
+# Simulation files
+*.spice
+
+# Other
+fp-info-cache
+*-archive.zip
+*.zip
