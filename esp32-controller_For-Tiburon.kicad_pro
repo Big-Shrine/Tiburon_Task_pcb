@@ -613,6 +613,38 @@
     [
       "eae6b2b7-7c39-475f-a588-61e077f8b686",
       "Root"
+    ],
+    [
+      "014c81d7-af35-4f5f-a507-b58f1d50d7c3",
+      "Thruster1"
+    ],
+    [
+      "b6f2d630-258b-4180-8a33-21b0048ef1fb",
+      "Thruster2"
+    ],
+    [
+      "5864bae5-d84e-4704-9ec2-0d7aec9bcb9f",
+      "Thruster3"
+    ],
+    [
+      "bf7aea44-d76b-49fc-b6e7-c21ee36fd256",
+      "Thruster4"
+    ],
+    [
+      "28b12f32-199a-494f-91b4-322298161a08",
+      "Thruster5"
+    ],
+    [
+      "7fbfd46a-7e1f-4a2d-bd33-e05d7a083c2f",
+      "Thruster6"
+    ],
+    [
+      "467c965f-9d87-4e60-8404-8f9dc4b1586d",
+      "Thruster7"
+    ],
+    [
+      "6426acb9-da1a-46f4-a804-681ac5bb4667",
+      "Thruster8"
     ]
   ],
   "text_variables": {}
